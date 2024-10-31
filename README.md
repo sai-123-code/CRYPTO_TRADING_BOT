@@ -2,6 +2,8 @@
 ## Overview
 This BTC trading bot is designed to operate on 5-minute intervals, using the Aroon indicator from the TA-Lib library to inform trade decisions. It follows a core-satellite investment approach to balance long-term investments with active trading. The bot allocates 80% of the portfolio to a stable, core investment in BTC while using the remaining 20% as a satellite for active trading.
 
+![image](https://github.com/user-attachments/assets/808c730d-5245-4b7b-a75d-60bd5a27da0e)
+
 ## Core-Satellite Strategy
 ### Core Portfolio:
 
